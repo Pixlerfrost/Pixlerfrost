@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Next.js
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [Twitter](https://twitter.com/)
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I'm from Lebanon
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm from Lebanon
 -->
