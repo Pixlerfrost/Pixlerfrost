@@ -1,4 +1,4 @@
-Hi there, Here is what I'm currently working 👋
+-Hi there, Here is what I'm currently working 👋
 
 - 🔭 I’m currently working on getting more contributions and becoming a better programmer
 - 🌱 I’m currently learning Next.js
