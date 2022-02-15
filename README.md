@@ -1,7 +1,3 @@
-### Hi there, Here is what I'm currently working 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on getting more contributions and becoming a better programmer
 - 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for help with Next.js
