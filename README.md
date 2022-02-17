@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on getting more contributions and becoming a better programmer
 - 🌱 I’m currently learning Next.js
-- 🤔 I’m looking for help with Next.js
 - 💬 Ask me about Anything!
 - 📫 You can reach me with: [Twitter](https://twitter.com/Pixlerfrost)
 - 😄 Pronouns: he/him
