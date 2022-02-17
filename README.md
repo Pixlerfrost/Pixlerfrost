@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for help with Next.js
 - 💬 Ask me about Anything!
-- 📫 How to reach me: [Twitter](https://twitter.com/Pixlerfrost)
+- 📫 You can reach me with: [Twitter](https://twitter.com/Pixlerfrost)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from Lebanon
 
