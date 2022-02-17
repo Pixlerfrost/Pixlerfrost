@@ -4,6 +4,5 @@
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about Anything!
 - 📫 You can reach me with: [Twitter](https://twitter.com/Pixlerfrost)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from Lebanon
 
